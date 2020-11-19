@@ -1,5 +1,5 @@
 # Default starter for Gridsome
-#HEY HEY HEY TEST VON MIR!!
+#Joooooooooo HEY HEY HEY TEST VON MIR!!
 This is the project you get when you run `gridsome create new-project`.
 
 ### 1. Install Gridsome CLI tool if you don't have
