@@ -15,4 +15,6 @@ This is the project you get when you run `gridsome create new-project`.
 
 ## So schaut es dann aus:
 
+HEY HEY HEY TEST VON MIR!!s
+
 ![](./static/thb-git-preview.png)
